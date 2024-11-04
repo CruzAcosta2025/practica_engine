@@ -1,11 +1,11 @@
 <?php
 /*****
-SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
+SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERÉS EN ESTA CATEGORÍA
 *****/
 
 $sociedad = [
-"titulo" => "XXX",
-"autor" => "XXX",
-"resumen" => "XXX",
+    "titulo" => "Aumento de la Conciencia Ambiental en la Juventud Peruana",
+    "autor" => "María Isabel Torres",
+    "resumen" => "Un reciente estudio revela que los jóvenes peruanos están cada vez más comprometidos con la sostenibilidad y la protección del medio ambiente.",
 ];
 ?>
